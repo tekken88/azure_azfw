@@ -11,7 +11,6 @@ variable "resource_group_name" {
 
 variable "home_public_ip" {
   description = "Your home public ip address"
-  default     = "73.87.200.12"
 }
 
 variable "username" {
